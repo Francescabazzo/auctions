@@ -1,0 +1,112 @@
+[{
+  "_id": {
+    "$oid": "679a4db92112e2f168abd44b"
+  },
+  "id": 10,
+  "title": "Libro Harry Potter e la pietra filosofale ",
+  "end_date": {
+    "$date": "2025-01-30T00:00:00.000Z"
+  },
+  "description": "Prima edizione in lingua originale del 1997 ",
+  "minimum_bid": 1000,
+  "current_bid_id": 16,
+  "user_id": 5
+},
+{
+  "_id": {
+    "$oid": "679a68e3c69a484cd7358418"
+  },
+  "id": 11,
+  "title": "Maglia Van Basten",
+  "end_date": {
+    "$date": "2025-01-29T19:44:00.000Z"
+  },
+  "description": "Maglia dell'AC Milan di Marco Van Basten della finale del 1990 contro il Benfica",
+  "minimum_bid": 1000,
+  "current_bid_id": 15,
+  "user_id": 4
+},
+{
+  "_id": {
+    "$oid": "679b52a61a0fdb57fc396ff4"
+  },
+  "id": 12,
+  "title": "Maglia Cristiano Ronaldo",
+  "end_date": {
+    "$date": "2025-01-30T16:30:00.000Z"
+  },
+  "description": "Maglia di Cristiano Ronaldo del Real Madrid, finale di Champions League di Cardiff del 2017 contro la Juventus",
+  "minimum_bid": 1500,
+  "current_bid_id": 19,
+  "user_id": 2
+},
+{
+  "_id": {
+    "$oid": "679b54fedf03f24c4c1df5dc"
+  },
+  "id": 13,
+  "title": "Servizio tazzine",
+  "end_date": {
+    "$date": "2025-01-31T10:31:00.000Z"
+  },
+  "description": "Servizio da 6 tazzine da caffé vintage del 1920 ",
+  "minimum_bid": 100,
+  "current_bid_id": 24,
+  "user_id": 1
+},
+{
+  "_id": {
+    "$oid": "679b910b72b6cf8b9c6d2896"
+  },
+  "id": 14,
+  "title": "Notte Stellata Van Gogh",
+  "end_date": {
+    "$date": "2025-01-31T14:47:00.000Z"
+  },
+  "description": "Copia de \"Notte Stellata\" di Vincent Van Gogh",
+  "minimum_bid": 150,
+  "current_bid_id": 23,
+  "user_id": 5
+},
+{
+  "_id": {
+    "$oid": "679bf832ac6405ab42ee0520"
+  },
+  "id": 15,
+  "title": "Armadio",
+  "end_date": {
+    "$date": "2025-01-31T11:00:00.000Z"
+  },
+  "description": "Armadio di mogano di inizio XX secolo",
+  "minimum_bid": 250,
+  "current_bid_id": 25,
+  "user_id": 4
+},
+{
+  "_id": {
+    "$oid": "679ca8eb4dc07d8767402900"
+  },
+  "id": 16,
+  "title": "Maglia Toni Kroos",
+  "end_date": {
+    "$date": "2025-01-31T15:41:00.000Z"
+  },
+  "description": "Maglia di Toni Kroos del Real Madrid del 25 maggio 2024, ultima partita in liga. ",
+  "minimum_bid": 100,
+  "current_bid_id": 26,
+  "user_id": 1
+},
+{
+  "_id": {
+    "$oid": "679e210a61ea2d53fc69d6f2"
+  },
+  "id": 17,
+  "title": "Orgoglio e pregiudizio",
+  "end_date": {
+    "$date": "2025-02-01T18:26:00.000Z"
+  },
+  "description": "Prima edizione del 1813 del libro \"Orgoglio e pregiudizio\" di Jane Austen in lingua originale",
+  "minimum_bid": 200,
+  "current_bid_id": null,
+  "user_id": 3
+}]

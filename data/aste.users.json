@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "67699dfaabce1455731c1cab"
+  },
+  "id": 1,
+  "username": "utente01",
+  "name": "Francesca",
+  "surname": "Bazzo",
+  "password": "12345",
+  "passwordRepeat": "12345"
+},
+{
+  "_id": {
+    "$oid": "676acf31621e303ad54ba2af"
+  },
+  "id": 2,
+  "username": "utente02",
+  "name": "Mario",
+  "surname": "Rossi",
+  "password": "12345",
+  "passwordRepeat": "12345"
+},
+{
+  "_id": {
+    "$oid": "6773cc5f496a74bca59dc3c4"
+  },
+  "id": 3,
+  "username": "utente03",
+  "name": "Mattia",
+  "surname": "Bazzo",
+  "password": "12345",
+  "passwordRepeat": "12345"
+},
+{
+  "_id": {
+    "$oid": "6786c259a49d43f06fefb13e"
+  },
+  "id": 4,
+  "username": "utente04",
+  "name": "Enio",
+  "surname": "Bazzo",
+  "password": "12345",
+  "passwordRepeat": "12345"
+},
+{
+  "_id": {
+    "$oid": "6797a4512326d029667cfca2"
+  },
+  "id": 5,
+  "username": "utente05",
+  "name": "Annalisa",
+  "surname": "Dal Bo'",
+  "password": "12345",
+  "passwordRepeat": "12345"
+}]
