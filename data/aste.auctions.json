@@ -107,6 +107,107 @@
   },
   "description": "Prima edizione del 1813 del libro \"Orgoglio e pregiudizio\" di Jane Austen in lingua originale",
   "minimum_bid": 200,
+  "current_bid_id": 28,
+  "user_id": 3
+},
+{
+  "_id": {
+    "$oid": "679e456389f715f78217872a"
+  },
+  "id": 18,
+  "title": "Gioconda",
+  "end_date": {
+    "$date": "2025-02-01T20:01:00.000Z"
+  },
+  "description": "Quadro dipinto da Leonardo da Vinci",
+  "minimum_bid": 1,
   "current_bid_id": null,
+  "user_id": 2
+},
+{
+  "_id": {
+    "$oid": "67a4a4f06926da6aeb0755bf"
+  },
+  "id": 19,
+  "title": "voto esame",
+  "end_date": {
+    "$date": "2025-02-06T12:05:00.000Z"
+  },
+  "description": "voto alto, si corruzione",
+  "minimum_bid": 1,
+  "current_bid_id": null,
+  "user_id": 6
+},
+{
+  "_id": {
+    "$oid": "681dcce963db1b2ca938f472"
+  },
+  "id": 20,
+  "title": "Maglia Theo Hernandez",
+  "end_date": {
+    "$date": "2025-05-15T18:00:00.000Z"
+  },
+  "description": "Maglietta di Theo Hernandez dell'AC Milan",
+  "minimum_bid": 100,
+  "current_bid_id": 31,
+  "user_id": 1
+},
+{
+  "_id": {
+    "$oid": "68258ffcf90aae28719c497b"
+  },
+  "id": 22,
+  "title": "Tovaglia",
+  "end_date": {
+    "$date": "2025-05-16T06:55:00.000Z"
+  },
+  "description": "Tovaglia a quadri rossi e bianchi",
+  "minimum_bid": 10,
+  "current_bid_id": 32,
+  "user_id": 5
+},
+{
+  "_id": {
+    "$oid": "682c4c91446f009e37d92796"
+  },
+  "id": 24,
+  "title": "Racchetta Sinner",
+  "end_date": {
+    "$date": "2025-06-03T10:40:00.000Z"
+  },
+  "description": "Racchetta di Jannik Sinner della finale degli Internazionali di Roma giocata domenica 18 maggio 2025",
+  "minimum_bid": 1000,
+  "current_bid_id": 43,
+  "user_id": 1
+},
+{
+  "_id": {
+    "$oid": "682c4d83524887d227d2f9e2"
+  },
+  "id": 25,
+  "title": "Racchetta Alcaraz",
+  "end_date": {
+    "$date": "2025-06-03T09:38:00.000Z"
+  },
+  "description": "Racchetta di Carlos Alcaraz della finale degli Internazionali di Roma giocata domenica 18 maggio 2025",
+  "minimum_bid": 1000,
+  "current_bid_id": 42,
+  "user_id": 4
+},
+{
+  "_id": {
+    "$oid": "683db0183c79f5c3000018a5"
+  },
+  "id": 26,
+  "title": "Maglia Dembélé",
+  "end_date": {
+    "$date": "2025-06-15T14:07:00.000Z"
+  },
+  "creation_date": {
+    "$date": "2025-06-02T14:07:19.000Z"
+  },
+  "description": "Maglia di Ousmane Dembélé del PSG della finale di Champions League di Monaco del 31 maggio 2025",
+  "minimum_bid": 100,
+  "current_bid_id": 44,
   "user_id": 3
 }]

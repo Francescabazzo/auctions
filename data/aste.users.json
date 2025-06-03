@@ -52,4 +52,26 @@
   "surname": "Dal Bo'",
   "password": "12345",
   "passwordRepeat": "12345"
+},
+{
+  "_id": {
+    "$oid": "67a4a4606926da6aeb0755be"
+  },
+  "id": 6,
+  "username": "adelorenz",
+  "name": "andrea",
+  "surname": "de lorenzo",
+  "password": "prova",
+  "passwordRepeat": "prova"
+},
+{
+  "_id": {
+    "$oid": "67bd9e738685e06d04e0baa6"
+  },
+  "id": 7,
+  "username": "utenteprova",
+  "name": "Paolo",
+  "surname": "Rossi",
+  "password": "12345",
+  "passwordRepeat": "12345"
 }]
